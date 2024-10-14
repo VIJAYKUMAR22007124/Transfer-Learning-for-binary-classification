@@ -12,6 +12,9 @@ The objective of this project is to build a binary classification model that can
 5)Visualizing the performance of the model using training and validation accuracy and loss curves.<br>
 
 
+![image](https://github.com/user-attachments/assets/c9c5831b-927b-44dd-a168-eac55d4c8582)
+
+
 ## DESIGN STEPS
 ### STEP 1:
 </br>
